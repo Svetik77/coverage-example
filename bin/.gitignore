@@ -1,0 +1,10 @@
+/coverage
+/target
+/work
+/coverage.ec
+/coverage.xml
+/.settings
+/.classpath
+/.tomcatplugin
+/.project
+/.#webclasspath
